@@ -1,12 +1,21 @@
 /*  
 Welcome, new coder. 
 Enter your code on line 7 to print 'Hello, World!' 
-to the console (the panel on the right)
-*/
+to the console (the panel on the righ
 
-console.log("Hello");
 
-/*  
+/*  let message = "katie is rad";
+let n = 7
+let k = 22
+console.log(typeof message);
+console.log(typeof n);
+console.log(typeof k);
+console.log(typeof dog);
+let n = 2
+n+2= 
+
+
+
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
 
